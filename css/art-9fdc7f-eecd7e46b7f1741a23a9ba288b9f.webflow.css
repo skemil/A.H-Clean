@@ -3903,6 +3903,17 @@ figcaption {
     -webkit-filter: none;
     filter: none;
   }
+
+  .button-3.is-secondary.xazaza {
+    border-style: none;
+    color: #000;
+  }
+
+  .testimonial17_content {
+    border-style: solid;
+    border-color: #000;
+    color: #000;
+  }
 }
 
 @media screen and (max-width: 991px) {
